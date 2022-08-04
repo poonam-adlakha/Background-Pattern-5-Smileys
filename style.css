@@ -1,0 +1,5 @@
+html {
+    background: radial-gradient(8% 10% at 33% 25%, #1c1800 40%, transparent 50%), radial-gradient(8% 10% at 48% 25%, #1c1800 40%, transparent 50%), radial-gradient(13% 11% at 40% 39%, #1c1800 40%, transparent 50%), radial-gradient(40% 40% at 40% 30%, #fecf4b 48%, rgba(0, 0, 0, 0) 52%) , #d0f3fa;
+    background-size: 100px 100px;
+}
+
