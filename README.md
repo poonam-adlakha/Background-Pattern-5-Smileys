@@ -1,4 +1,4 @@
-# Background-Pattern-5-Smileys
+# Background-Pattern 5 Smileys
 
 [Website Link](https://background-emojis.netlify.app/)
 
