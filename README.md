@@ -1,4 +1,6 @@
-# Background-Pattern 5 Smileys 
+# Background-Pattern 5 Smileys
+
+Background pattern created with no DIV
 
 [Website Link](https://background-emojis.netlify.app/)
 
